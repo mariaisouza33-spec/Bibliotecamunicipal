@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BibliotecaMunicipal/1.0.0": {
+        "runtime": {
+          "BibliotecaMunicipal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaMunicipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

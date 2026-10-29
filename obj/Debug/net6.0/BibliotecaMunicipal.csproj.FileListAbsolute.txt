@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\bin\Debug\net6.0\BibliotecaMunicipal.exe
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\bin\Debug\net6.0\BibliotecaMunicipal.deps.json
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\bin\Debug\net6.0\BibliotecaMunicipal.runtimeconfig.json
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\bin\Debug\net6.0\BibliotecaMunicipal.dll
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\bin\Debug\net6.0\BibliotecaMunicipal.pdb
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.dll
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\refint\BibliotecaMunicipal.dll
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.pdb
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\BibliotecaMunicipal.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\BibliotecaMunicipal\obj\Debug\net6.0\ref\BibliotecaMunicipal.dll
